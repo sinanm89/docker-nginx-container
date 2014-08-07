@@ -1,4 +1,4 @@
 docker-nginx-container
 ======================
 
-fileserver
+Docker image construction blueprint with nginx cdn made.
